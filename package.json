@@ -26,6 +26,6 @@
     "jszip": "^3.10.1"
   },
   "bin": {
-    "base-cli":"./dist/indexjs"
+    "base-cli":"./dist/index.js"
   }
 }
