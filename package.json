@@ -1,5 +1,5 @@
 {
-  "name": "base-cli",
+  "name": "base-project-cli",
   "version": "0.1.0",
   "description": "A cli to create react projects",
   "main": "dist/index.js",
@@ -26,6 +26,6 @@
     "jszip": "^3.10.1"
   },
   "bin": {
-    "base-cli":"./dist/index.js"
+    "base-project-cli":"./dist/index.js"
   }
 }
